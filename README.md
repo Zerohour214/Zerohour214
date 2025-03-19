@@ -13,7 +13,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Raito, by day i'm a Cloud Engineer, but by night i'm a tinkerer of technology, Web Development, DevSecOps,... what ever you name it, i have done it professionally (to a certain degree). You might even found one of my alternate personality on a certain non clearnet forums.
+  Hi, I'm Raito, by day i do Cloud stuffs, but by night i'm a tinkerer of technology, Web Development, DevSecOps,... what ever you name it, i have done it professionally (to a certain degree). You might even found one of my alternate personality on a certain non clearnet forums.
   <br>
   <br>
   🎓 I'm graduate Hanoi University of Science and Technology, Department of Information and Communication Technology
